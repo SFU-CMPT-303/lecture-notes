@@ -8,9 +8,7 @@
     * These days, there are many more processes you want to run than the # of cores. Thus, the same
       question remains.
 * You can read more about this topic in the following chapters of
-  [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/). Keep in mind that OSTEP's discussions are much
-  more in depth, which we consider out of scope for this course. Thus, you can use it as a reference
-  but the main source should still be this lecture note.
+  [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/).
     * [Chapter 7 Scheduling: Introduction](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf)
     * [Chapter 8 Scheduling: The Multi-Level Feedback
       Queue](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf)
